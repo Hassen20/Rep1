@@ -1,2 +1,3 @@
 this fist line of code
 c = a + b
+c = c* 2
